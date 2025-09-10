@@ -1,0 +1,2 @@
+run = "pnpm install --silent && pnpm dev"
+entrypoint = "src/server.ts"
